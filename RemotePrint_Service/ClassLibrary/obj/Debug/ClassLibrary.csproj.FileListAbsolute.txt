@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Binaries\Splickit\ClassLibrary.dll
+C:\Binaries\Splickit\ClassLibrary.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\RemotePrint_Service\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Administrator\Dropbox\RemotePrint_Service\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Dropbox\Splickit\ClassLibrary.dll
+C:\Users\Administrator\Dropbox\Splickit\ClassLibrary.pdb
+C:\Users\Administrator\Binaries\Splickit\ClassLibrary.dll
+C:\Users\Administrator\Binaries\Splickit\ClassLibrary.pdb

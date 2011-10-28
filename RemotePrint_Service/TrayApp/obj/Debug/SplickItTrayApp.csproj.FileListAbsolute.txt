@@ -1,0 +1,28 @@
+C:\Binaries\Splickit\SplickItTrayApp.exe.config
+C:\Binaries\Splickit\App.ico
+C:\Binaries\Splickit\AppGreen.ico
+C:\Binaries\Splickit\AppRed.ico
+C:\Binaries\Splickit\SplickItTrayApp.exe
+C:\Binaries\Splickit\SplickItTrayApp.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\SplickItTrayApp.exe
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\SplickItTrayApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\TrayApp\obj\Debug\SplickItTrayApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\TrayApp\obj\Debug\SplickItTrayApp.pdb
+C:\Users\Administrator\Binaries\Splickit\installutil.exe
+C:\Users\Administrator\Binaries\Splickit\install.bat
+C:\Users\Administrator\Binaries\Splickit\App.ico
+C:\Users\Administrator\Binaries\Splickit\AppGreen.ico
+C:\Users\Administrator\Binaries\Splickit\AppRed.ico
+C:\Users\Administrator\Binaries\Splickit\SplickItTrayApp.exe.config
+C:\Users\Administrator\Binaries\Splickit\SplickItTrayApp.exe
+C:\Users\Administrator\Binaries\Splickit\SplickItTrayApp.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\RemotePrint_Desktop.Form1.resources
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\RemotePrint_Desktop.frmShowMessage.resources
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\TrayApp\obj\Debug\GenerateResource.write.1.tlog

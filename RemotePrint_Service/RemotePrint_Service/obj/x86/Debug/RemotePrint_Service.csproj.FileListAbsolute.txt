@@ -1,0 +1,21 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\RemotePrint_Service.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\RemotePrint_Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\RemotePrint_Service.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\RemotePrint_Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\RemotePrint_Service.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Service\bin\Debug\ServiceStack.Redis.dll
+C:\Binaries\Splickit\RemotePrint_Service.exe.config
+C:\Binaries\Splickit\RemotePrint_Service.exe
+C:\Binaries\Splickit\RemotePrint_Service.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\RemotePrint_Service.exe
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Service\obj\x86\Debug\RemotePrint_Service.pdb
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Service.exe.config
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Service.exe
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Service.pdb
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Service.exe.config
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Service.exe
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Service.pdb

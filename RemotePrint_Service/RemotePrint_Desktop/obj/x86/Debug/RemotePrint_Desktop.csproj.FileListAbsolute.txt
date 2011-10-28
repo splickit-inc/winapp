@@ -1,0 +1,39 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\RemotePrint_Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\RemotePrint_Desktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\RemotePrint_Desktop.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\bin\Debug\ServiceStack.Redis.dll
+C:\Binaries\Splickit\RemotePrint_Desktop.exe.config
+C:\Binaries\Splickit\RemotePrint_Desktop.exe
+C:\Binaries\Splickit\RemotePrint_Desktop.pdb
+C:\Binaries\Splickit\installutil.exe
+C:\Binaries\Splickit\install.bat
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.exe
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.Form1.resources
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Desktop.exe.config
+C:\Users\Administrator\Dropbox\Splickit\installutil.exe
+C:\Users\Administrator\Dropbox\Splickit\install.bat
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Desktop.exe
+C:\Users\Administrator\Dropbox\Splickit\RemotePrint_Desktop.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.frmShowMessage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\RemotePrint_Desktop.frmShowMessage.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Binaries\Splickit\installutil.exe
+C:\Users\Administrator\Binaries\Splickit\install.bat
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Desktop.exe.config
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Desktop.exe
+C:\Users\Administrator\Binaries\Splickit\RemotePrint_Desktop.pdb
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\RemotePrint_Service\RemotePrint_Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
