@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplickItOrdersApp", "SplickItTrayApp\SplickItOrdersApp.csproj", "{4FDF23DE-FA91-448A-95A8-5658B7F8A22F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SplickItSetup", "SplickItSetup\SplickItSetup.vdproj", "{87D29D6B-D55F-4908-977C-BC4A010A473D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDF23DE-FA91-448A-95A8-5658B7F8A22F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDF23DE-FA91-448A-95A8-5658B7F8A22F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4FDF23DE-FA91-448A-95A8-5658B7F8A22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDF23DE-FA91-448A-95A8-5658B7F8A22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D29D6B-D55F-4908-977C-BC4A010A473D}.Debug|Any CPU.ActiveCfg = Release
+		{87D29D6B-D55F-4908-977C-BC4A010A473D}.Debug|Any CPU.Build.0 = Release
+		{87D29D6B-D55F-4908-977C-BC4A010A473D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

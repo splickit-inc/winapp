@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<order>
+  <order_id>18956</order_id>
+  <message_id>18956</message_id>
+  <results>no open orders</results>
+  <name>D D</name>
+  <pickup_time>Jul 12, 2011   12:17</pickup_time>
+  <merchant_id>1093</merchant_id>
+  <action>1</action>
+  <order_amt>7.45</order_amt>
+  <order_quantity>1</order_quantity>
+  <order_details>
+    ---- SPLICKIT MOBILE ORDER ----
+
+    For: D
+    Order Id: 18956
+    Pickup At: 12:17
+
+    Special Instructions:
+
+    ----------------------------------
+
+    1 Snarf 7in Italian Sandwich
+
+    WITH:
+    -- Wheat
+    -- Provolone
+    -- Capicola
+    -- Mortidalla
+    -- Pepperoni
+    -- Salami
+    -- Mayo
+    -- Mustard
+    -- Hot Peppers
+    -- Onions
+    -- Lettuce
+    -- Tomato
+    -- Pickles
+    -- Seasoning
+    -- Oil
+
+    ----------------------------------
+    sub:	 6.50
+    Tax:   0.70
+    Tip:   0.00
+    fee:   0.25
+    promo:   -0.00
+    ----------------------------------
+    total:   7.45
+  </order_details>
+</order>
