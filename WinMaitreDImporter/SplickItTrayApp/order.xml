@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExternalOrder Ref="ORDER 001">
+  <Invoice>101051</Invoice>
+  <Workstation>3</Workstation>
+  <WaiterNumber>5</WaiterNumber>
+  <DateOrdered>2003-01-01</DateOrdered>
+  <TimeOrdered>9:01:33</TimeOrdered>
+  <DateDelivery>2003-01-05</DateDelivery>
+  <TimeDelivery>20:30:00</TimeDelivery>
+  <TimePreparation>20:00:00</TimePreparation>
+  <Function>Delivery</Function>
+  <PickUp>False</PickUp>
+  <SendToKitchen>Yes</SendToKitchen>
+  <PrintPOS>3</PrintPOS>
+  <Mode>2</Mode>
+  <RevenueCenter>1</RevenueCenter>
+  <Customer>
+    <Phone>444-1201</Phone>
+    <Name>John Mat1</Name>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <AptNum></AptNum>
+      <Near>Second Street</Near>
+      <CityState>Mtl, PQ</CityState>
+      <AreaCode></AreaCode>
+      <ZipCode>H3H3H3</ZipCode>
+    </Address>
+    <Remark>Rem 1</Remark>
+    <Remark>Rem 2</Remark>
+    <Remark>Rem 3></Remark>
+    <SpecialRemark>Spec. rem 1</SpecialRemark>
+    <SpecialRemark>Spec. rem 2</SpecialRemark>
+  </Customer>
+  <Orders>
+    <Order>
+      <Item>
+        <ItemId>363</ItemId>
+        <Description>Coffee</Description>
+        <Quantity>1</Quantity>
+        <Price>1.00</Price>
+      </Item>
+    </Order>
+    <Order>
+      <Item>
+        <ItemId>203</ItemId>
+        <Description>Hamburger</Description>
+        <Quantity>1</Quantity>
+        <Price>6.25</Price>
+      </Item>
+      <Item>
+        <ItemId>8</ItemId>
+        <AltItemId>29</AltItemId>
+        <Description>With cheese</Description>
+        <Quantity>1</Quantity>
+        <Price>0.00</Price>
+      </Item>
+    </Order>
+    <Discounts>
+      <Discount>
+        <DiscountId>1</DiscountId>
+        <Amount>1.00</Amount>
+      </Discount>
+      <Discount>
+        <DiscountId>3</DiscountId>
+        <Amount>0.50</Amount>
+      </Discount>
+    </Discounts>
+    <Charges>
+      <Service>
+        <Amount>0.00</Amount>
+      </Service>
+      <Gratuity>
+        <Amount>0.00</Amount>
+      </Gratuity>
+      <Delivery>
+        <Amount>3.00</Amount>
+      </Delivery>
+    </Charges>
+    <Taxs>
+      <Tax>
+        <TaxId>1</TaxId>
+        <Amount>1.01</Amount>
+      </Tax>
+    </Taxs>
+    <Medias>
+      <Media>
+        <MediaId>1</MediaId>
+        <Amount>2.00</Amount>
+        <Folio></Folio>
+      </Media>
+      <Media>
+        <MediaId>3</MediaId>
+        <Amount>9.00</Amount>
+        <Tip>1.24</Tip>
+        <Folio>1234</Folio>
+      </Media>
+    </Medias>
+  </Orders>
+</ExternalOrder>

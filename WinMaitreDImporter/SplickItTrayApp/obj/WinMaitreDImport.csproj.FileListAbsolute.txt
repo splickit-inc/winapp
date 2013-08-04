@@ -1,0 +1,14 @@
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\ResolveAssemblyReference.cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\SplickItOrdersApp.FormSettings.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.Properties.Resources.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.csproj.GenerateResource.Cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.exe.config
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.pdb
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.TrustInfo.xml
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImport.pdb

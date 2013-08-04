@@ -1,0 +1,30 @@
+C:\Documents and Settings\Atiq Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.exe.config
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.exe.config
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.exe.manifest
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.application
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.exe
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\bin\Release\Splick-ItOrders.pdb
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\SplickItOrdersApp.Properties.Resources.resources
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\SplickItOrdersApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\Splick-ItOrders.TrustInfo.xml
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\Splick-ItOrders.exe.manifest
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\Splick-ItOrders.application
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\Splick-ItOrders.exe
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\Splick-ItOrders.pdb
+C:\Documents and Settings\Atiq.Mir\My Documents\Visual Studio 2005\Projects\RemotePrint\SplickItTrayApp\obj\Release\SplickItOrdersApp.FormSettings.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\Splick-ItOrders.exe.config
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\Splick-ItOrders.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\Splick-ItOrders.pdb
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\Splick-ItOrders.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\Splick-ItOrders.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\Splick-ItOrders.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\Splick-ItOrders.pdb
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\ResolveAssemblyReference.cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\SplickItOrdersApp.FormSettings.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\SplickItOrdersApp.Properties.Resources.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\SplickItOrdersApp.csproj.GenerateResource.Cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\Splick-ItOrders.TrustInfo.xml
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\Splick-ItOrders.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\Splick-ItOrders.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImport.exe.config

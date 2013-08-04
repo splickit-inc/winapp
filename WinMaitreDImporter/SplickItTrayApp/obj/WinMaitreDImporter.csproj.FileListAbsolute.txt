@@ -1,0 +1,20 @@
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImporter.exe.config
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\ResolveAssemblyReference.cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.FormSettings.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.Properties.Resources.resources
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.csproj.GenerateResource.Cache
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImporter.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImporter.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImporter.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\bin\Release\WinMaitreDImporter.pdb
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.TrustInfo.xml
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.exe.manifest
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.application
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.exe
+C:\SplickIt\Projects\MaitreD\SplickItTrayApp\obj\Release\WinMaitreDImporter.pdb
+C:\SplickIt\Projects\WinMaitreDImporter\SplickItTrayApp\bin\Release\WinMaitreDImporter.exe.config
+C:\SplickIt\Projects\WinMaitreDImporter\SplickItTrayApp\obj\Release\WinMaitreDImporter.exe
+C:\SplickIt\Projects\WinMaitreDImporter\SplickItTrayApp\obj\Release\WinMaitreDImporter.pdb
+C:\Documents and Settings\Atiq Mir\My Documents\GitHub\winapp\WinMaitreDImporter\SplickItTrayApp\bin\Release\WinMaitreDImporter.exe.config
+C:\Documents and Settings\Atiq Mir\My Documents\GitHub\winapp\WinMaitreDImporter\SplickItTrayApp\obj\Release\WinMaitreDImporter.exe
+C:\Documents and Settings\Atiq Mir\My Documents\GitHub\winapp\WinMaitreDImporter\SplickItTrayApp\obj\Release\WinMaitreDImporter.pdb

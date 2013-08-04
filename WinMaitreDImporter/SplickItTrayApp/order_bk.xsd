@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ExternalOrder">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Invoice" type="xs:string" />
+        <xs:element name="Workstation" type="xs:string" />
+        <xs:element name="WaiterNumber" type="xs:string" />
+        <xs:element name="DateOrdered" type="xs:string" />
+        <xs:element name="TimeOrdered" type="xs:string" />
+        <xs:element name="DateDelivery" type="xs:string" />
+        <xs:element name="TimeDelivery" type="xs:string" />
+        <xs:element name="TimePreparation" type="xs:string" />
+        <xs:element name="Function" type="xs:string" />
+        <xs:element name="PickUp" type="xs:string" />
+        <xs:element name="SendToKitchen" type="xs:string" />
+        <xs:element name="PrintPOS" type="xs:string" />
+        <xs:element name="Mode" type="xs:string" />
+        <xs:element name="RevenueCenter" type="xs:string" />
+        <xs:element name="Customer">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Phone" type="xs:string" />
+              <xs:element name="Name" type="xs:string" />
+              <xs:element name="Address">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Number" type="xs:string" />
+                    <xs:element name="Street" type="xs:string" />
+                    <xs:element name="AptNum" type="xs:string" />
+                    <xs:element name="CitState" type="xs:string" />
+                    <xs:element name="AreaCode" type="xs:string" />
+                    <xs:element name="ZipCode" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Remark" type="xs:string" />
+              <xs:element name="SpecialRemark" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Orders">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Order">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Item">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ItemId" type="xs:string" />
+                          <xs:element name="AltItemId" type="xs:string" />
+                          <xs:element name="Description" type="xs:string" />
+                          <xs:element name="Quantity" type="xs:string" />
+                          <xs:element name="Price" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Discounts">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DiscountId" type="xs:string" />
+              <xs:element name="Amount" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Charges">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Service">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Amount" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Gratuity">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Amount" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Delivery">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Amount" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Taxs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TaxId" type="xs:string" />
+              <xs:element name="Amount" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Medias">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Media">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="MediaId" type="xs:string" />
+                    <xs:element name="Amount" type="xs:string" />
+                    <xs:element name="Folio" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="Ref" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
